@@ -1,0 +1,23 @@
+{
+    "stopdabitch": {
+        "checkpoints": [
+            {
+                "steps": 82906,
+                "file_path": "results\\BitchFinal\\stopdabitch\\stopdabitch-82906.onnx",
+                "reward": null,
+                "creation_time": 1622656827.4761355
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 82906,
+            "file_path": "results\\BitchFinal\\stopdabitch.onnx",
+            "reward": null,
+            "creation_time": 1622656827.4761355
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "LogRunner": {
+        "checkpoints": [
+            {
+                "steps": 2945,
+                "file_path": "results\\log3\\LogRunner\\LogRunner-2945.onnx",
+                "reward": -1.0,
+                "creation_time": 1622566831.560448,
+                "auxillary_file_paths": [
+                    "results\\log3\\LogRunner\\LogRunner-2945.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2945,
+            "file_path": "results\\log3\\LogRunner.onnx",
+            "reward": -1.0,
+            "creation_time": 1622566831.560448,
+            "auxillary_file_paths": [
+                "results\\log3\\LogRunner\\LogRunner-2945.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

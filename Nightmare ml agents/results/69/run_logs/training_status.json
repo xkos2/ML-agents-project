@@ -1,0 +1,29 @@
+{
+    "Reach Finish": {
+        "checkpoints": [
+            {
+                "steps": 17283,
+                "file_path": "results\\69\\Reach Finish\\Reach Finish-17283.onnx",
+                "reward": -0.13761467889908258,
+                "creation_time": 1622461732.4166207,
+                "auxillary_file_paths": [
+                    "results\\69\\Reach Finish\\Reach Finish-17283.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 17283,
+            "file_path": "results\\69\\Reach Finish.onnx",
+            "reward": -0.13761467889908258,
+            "creation_time": 1622461732.4166207,
+            "auxillary_file_paths": [
+                "results\\69\\Reach Finish\\Reach Finish-17283.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

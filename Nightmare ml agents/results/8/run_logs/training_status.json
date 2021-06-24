@@ -1,0 +1,29 @@
+{
+    "Rotatepls": {
+        "checkpoints": [
+            {
+                "steps": 64,
+                "file_path": "results\\8\\Rotatepls\\Rotatepls-64.onnx",
+                "reward": null,
+                "creation_time": 1622459418.8067968,
+                "auxillary_file_paths": [
+                    "results\\8\\Rotatepls\\Rotatepls-64.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 64,
+            "file_path": "results\\8\\Rotatepls.onnx",
+            "reward": null,
+            "creation_time": 1622459418.8067968,
+            "auxillary_file_paths": [
+                "results\\8\\Rotatepls\\Rotatepls-64.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

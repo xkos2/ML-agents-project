@@ -1,0 +1,23 @@
+{
+    "findcube": {
+        "checkpoints": [
+            {
+                "steps": 900,
+                "file_path": "results\\findcube1\\findcube\\findcube-900.onnx",
+                "reward": -1.0,
+                "creation_time": 1622712454.7575865
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 900,
+            "file_path": "results\\findcube1\\findcube.onnx",
+            "reward": -1.0,
+            "creation_time": 1622712454.7575865
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

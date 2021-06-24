@@ -1,0 +1,29 @@
+{
+    "RewardBias": {
+        "checkpoints": [
+            {
+                "steps": 30377,
+                "file_path": "results\\rewardbias1\\RewardBias\\RewardBias-30377.onnx",
+                "reward": 4.156914893617022,
+                "creation_time": 1622485343.5270038,
+                "auxillary_file_paths": [
+                    "results\\rewardbias1\\RewardBias\\RewardBias-30377.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30377,
+            "file_path": "results\\rewardbias1\\RewardBias.onnx",
+            "reward": 4.156914893617022,
+            "creation_time": 1622485343.5270038,
+            "auxillary_file_paths": [
+                "results\\rewardbias1\\RewardBias\\RewardBias-30377.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

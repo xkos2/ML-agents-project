@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1622618634",
+        "python_version": "3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)]",
+        "command_line_arguments": "F:\\20 crores\\Nightmare ml agents\\ve\\Scripts\\mlagents-learn --run-id=reachfiness",
+        "mlagents_version": "0.26.0",
+        "mlagents_envs_version": "0.26.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.20.3",
+        "end_time_seconds": "1622618645"
+    },
+    "total": 10.8187821,
+    "count": 1,
+    "self": 0.0340518000000003,
+    "children": {
+        "run_training.setup": {
+            "total": 0.031710499999999975,
+            "count": 1,
+            "self": 0.031710499999999975
+        },
+        "TrainerController.start_learning": {
+            "total": 10.7530198,
+            "count": 1,
+            "self": 0.000653000000001569,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 10.7523343,
+                    "count": 1,
+                    "self": 10.7523343
+                },
+                "trainer_threads": {
+                    "total": 1.1000000004202093e-06,
+                    "count": 1,
+                    "self": 1.1000000004202093e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 3.139999999923759e-05,
+                    "count": 1,
+                    "self": 3.139999999923759e-05
+                }
+            }
+        }
+    }
+}

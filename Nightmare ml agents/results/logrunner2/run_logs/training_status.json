@@ -1,0 +1,29 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 1628,
+                "file_path": "results\\logrunner2\\My Behavior\\My Behavior-1628.onnx",
+                "reward": 0.0,
+                "creation_time": 1622471792.77899,
+                "auxillary_file_paths": [
+                    "results\\logrunner2\\My Behavior\\My Behavior-1628.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1628,
+            "file_path": "results\\logrunner2\\My Behavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1622471792.77899,
+            "auxillary_file_paths": [
+                "results\\logrunner2\\My Behavior\\My Behavior-1628.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
